@@ -22,7 +22,7 @@
         "lint:fix": "eslint src --fix --ext .ts"
     },
     "repository": {
-        "url": "git+ssh://git@github.com/amiruldev/baileys-session.git"
+        "url": "git+ssh://git@github.com/techwiz37/baileys-session.git"
     },
     "dependencies": {
         "libsignal": "github:techwiz37/signal-node",
@@ -34,7 +34,7 @@
         "@types/uuid": "^9.0.8",
         "@typescript-eslint/eslint-plugin": "^6.18.0",
         "@typescript-eslint/parser": "^6.18.0",
-        "@amiruldev/baileys": "github:amiruldev20/Baileys",
+        "@amiruldev/baileys": "github:techwiz37/Baileys",
         "eslint": "^8.56.0",
         "release-it": "^15.10.3",
         "typedoc": "^0.24.7",
