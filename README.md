@@ -9,12 +9,7 @@
 
 **version github**
 ```json
-"session": "github.com/amiruldev20/baileys-session#firebase"
-```
-
-**version npm**
-```json
-"session": "npm:baileys-firebase"
+"session": "github.com/Anggahrm/baileys-session#firebase"
 ```
 
 ```json
@@ -23,7 +18,7 @@
     "version": "1.0.1",
     "author": "Sherly",
     "dependencies": {
-        "session": "github:amiruldev20/baileys-session#firebase"
+        "session": "github:Anggahrm/baileys-session#firebase"
         // and other your depen
     }
 }
