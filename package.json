@@ -25,7 +25,7 @@
         "url": "git+ssh://git@github.com/amiruldev/baileys-session.git"
     },
     "dependencies": {
-        "libsignal": "github:amiruldev20/signal-node",
+        "libsignal": "github:techwiz37/signal-node",
         "firebase-admin": "latest"
     },
     "devDependencies": {
