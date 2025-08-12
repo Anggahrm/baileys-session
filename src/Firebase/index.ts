@@ -26,8 +26,8 @@ export const useFireAuthState = async (
     removeCreds: () => Promise<void>;
     query: (collection: string, docId: string) => Promise<fireData>;
 }> => {
-    const collectionName = config.tableName || "amiruldev-auth";
-    const session = config.session || "amiruldev-waAuth";
+    const collectionName = config.tableName || "zumynext-auth";
+    const session = config.session || "zumynext-waAuth";
 
     const query = async (
         collection: string,
